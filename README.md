@@ -1,7 +1,7 @@
 # LCT
 ## Learn Computational Thinking
 
-![Hello Dave...](https://github.com/pixiesue/LCT/blob/4c510d462810a5b70e8c243fb1ca077e0860f444/hal9000_400x400.png(2) "8bit Hal")
+![Hello Dave...](https://github.com/pixiesue/LCT/blob/5ac91493cd1d4797c04fd56ad6f3883c7052ea4c/hal9000_400x400%20(2).png "8bit Hal")
  
 My goal is to gather and share all the relevant ressources I find about Computer Science.
 
