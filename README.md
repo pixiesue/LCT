@@ -25,3 +25,4 @@ I will document how I use ChatGPT to help me learn about:
 https://chat.openai.com/chat
 
 ### ChatGPT PROMPTS
+[1st Q&A with ChatGPT](https://github.com/pixiesue/LCT/blob/5caa54794eb5b5a94e5d9ad0fbd9a32d40eea923/CompSci%20&%20CompThinking%20Introduction.mhtml)
