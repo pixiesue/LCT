@@ -14,7 +14,8 @@ I will document how I use ChatGPT to help me learn about:
 
 
 ### TUTORIALS
-
+Introduction to mathematical thinking complete course
+https://www.youtube.com/watch?v=LN7cCW1rSsI&t=896s
 
 ### BOOKS
 
