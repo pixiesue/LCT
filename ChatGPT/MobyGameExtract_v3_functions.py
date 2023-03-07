@@ -1,8 +1,8 @@
 # Let's start by importing some modules
-import requests  # We use this to send HTTP requests
 import time  # We use this to track how long our program takes to run
 import os  # We use this to check if a file already exists
 import pandas as pd  # We use this to create and manipulate data in a table format
+import requests  # We use this to send HTTP requests
 
 import time  # This is the second time we're importing the time module... why? Because we can!
 
